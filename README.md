@@ -17,4 +17,4 @@ Protects Nezuko
 and more.
 <br>
 <br>
-<img src="images/zen.jpg" width="500">
+<img src="images/zen.gif" width="500">
