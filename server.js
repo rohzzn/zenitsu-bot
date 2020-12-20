@@ -11,4 +11,4 @@ client.on("message",message => {
 }
 })
 
-client.login("NzY2MjE4NTk4OTEzMTQ2OTAx.X4gKrQ.Uj3NFWhHgu_7qJQk_quin1C0gIc")
+client.login("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx")
