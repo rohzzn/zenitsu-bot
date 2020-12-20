@@ -5,4 +5,4 @@ The commands are made using ecma script.
 
 This is a basic bot with moderation commands. 
 
-<img src="images/zen.png" width="200">
+<img src="images/zen.jpg" width="100">
