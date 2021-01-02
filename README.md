@@ -1,8 +1,6 @@
 # zenitsu-bot
-The commands are made using ecma script.
+The commands are made using ecma script & json.
 <br>
-
-<img src="images/es.png" height="100" width="100">
 
 Things the bot can do -
 <br>
