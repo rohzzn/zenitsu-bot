@@ -18,4 +18,4 @@ and more.
 <br>
 <br>
 <img src="images/zen.gif" width="500">
-<img src="images/tenor.gif" width="500">
+
