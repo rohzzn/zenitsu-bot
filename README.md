@@ -5,17 +5,11 @@ To Invite the bot click [here.](https://discord.com/oauth2/authorize?client_id=7
 <br>
 
 Things the bot can do -
+- Moderation 
+- Welcome System 
+- Games
+- Protects Nezuko
+- and more.
 <br>
-Moderation 
-<br>
-Level System
-<br>
-Welcome System 
-<br>
-Protects Nezuko
-<br>
-and more.
-<br>
-<br>
-<img src="images/zen.gif" width="500">
+<img src="images/zen.gif" width="1000">
 
