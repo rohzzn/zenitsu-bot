@@ -64,5 +64,3 @@ If you have any questions or issues with the bot, please open an issue on this r
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://chat.openai.com/LICENSE) file for details.
-
-Please note that the above readme is an example and should be filled with the specific details of your discord bot.
