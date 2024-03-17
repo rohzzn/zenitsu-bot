@@ -9,6 +9,6 @@ client.on("message",message => {
 	if(message.content === "!ping"){
 		return message.channel.send("Pong " + client.ws.ping)}
 }
-})
+)
 
 client.login("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx")
